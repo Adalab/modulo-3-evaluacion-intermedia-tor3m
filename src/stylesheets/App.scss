@@ -1,8 +1,43 @@
-@import './reset';
-@import './variables';
+@import "./reset";
+@import "./variables";
 
-main {
-  font-size: 18px;
-  
+.title {
+  text-align: center;
+  font-size: 30px;
+  margin: 20px 20px 20px 20px;
 }
 
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  cursor: pointer;
+  align-content: flex-start;
+  justify-content: center;
+}
+
+.list-item {
+  width: 200px;
+  margin: 20px 20px 20px 20px;
+  padding: 7px 7px 7px 7px;
+  border-radius: 10px;
+  height: 270px;
+  background-color: white;
+}
+
+.image {
+  border-radius: 10px;
+  height: 160px;
+  background-color: white;
+}
+
+.list-title {
+ 
+  padding: 7px 7px 7px 7px;
+  background-color: white;
+}
+
+.list-types {
+  list-style-type: none;
+  text-align: center;
+  background-color: white;
+}
