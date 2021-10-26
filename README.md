@@ -1,7 +1,6 @@
-# Evaluación Intermedia Modulo 3 👋
+# Evaluación Intermedia Modulo 3 👋 
 
 Hola! Está es mi evaluación intermedia del tercer modulo del curso de Adalab, donde pongo a prueba mis conocimientos en React.
-
 
 ## Maquetación 💻
 
