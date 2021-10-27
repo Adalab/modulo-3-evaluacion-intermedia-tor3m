@@ -1,6 +1,7 @@
-# Evaluación Intermedia Modulo 3 👋 
+![pokemon-web](https://user-images.githubusercontent.com/81690198/138978175-6053b25d-4465-45de-ac1f-8dd17fb51bd8.png)
 
-Hola! Está es mi evaluación intermedia del tercer modulo del curso de Adalab, donde pongo a prueba mis conocimientos en React.
+
+👋 Hola! Está es mi evaluación intermedia del tercer modulo del curso de Adalab, donde pongo a prueba mis conocimientos en React.
 
 ## Maquetación 💻
 
