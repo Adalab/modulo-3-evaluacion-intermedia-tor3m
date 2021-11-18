@@ -15,7 +15,7 @@ we will include in the state of the App component. Free Design!
 
 ## 🛠️ Installation Steps 
 
-This project uses [Adalab Stater Kit](https://github.com/Adalab/adalab-web-starter-kit) (template), [Gulp](https://gulpjs.com/), [Node](https://nodejs.org/es/) and [npm] (https://www.npmjs.com/). Go check them out if you don't have them locally installed.
+This project uses [Adalab Stater Kit](https://github.com/Adalab/adalab-web-starter-kit) (template), [Gulp](https://gulpjs.com/), [Node](https://nodejs.org/es/)  and [npm](https://www.npmjs.com/) . Go check them out if you don't have them locally installed.
 
 How to run a project? 
 
